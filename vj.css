@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+}
+
+.theading{
+    border: 1px solid hotpink;
+}
+
+#school-information-container{
+    text-align: center;
+}
+
+#school-sub{
+    margin-top: 10px;
+}
+
+
+#student-information-container{
+    display: flex;
+    justify-content: center;
+}
+
+.first-half{
+    width: 30%;
+}
+
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.internal{
+    text-align: center;
+}
+
+table{
+    margin: 10px auto;
+}
+
+.result{
+    margin-left: 40%;
+}
